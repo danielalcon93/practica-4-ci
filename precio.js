@@ -1,0 +1,1 @@
+export const total = (plazas, precio) => plazas * precio;
