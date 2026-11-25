@@ -1,1 +1,1 @@
-export const total = (plazas, precio) => plazas + precio;
+export const total = (plazas, precio) => plazas - precio;
